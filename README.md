@@ -17,6 +17,5 @@ I'm Jenny (she/her) - I'm a software engineering grad student who enjoys buildin
   
 <summary>Jenny's Github Stats</summary>
 
-[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jennyyyy0212)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Jenny's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jennyyyy0212)](https://github.com/stats-organization/github-stats-extended)
 </details>
